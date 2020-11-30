@@ -44,7 +44,7 @@ Estamos comprometidos em prover uma comunidade inspiradora e receptiva a todos.
 
 Sendo assim, **qualquer um que violar as propostas do Código de Conduta receberá as devidas punições da comunidade**.
 
-E sem mais delongas, encarecidamente solicitamos respeito as propostas deste documento se assim for de seu interesse participar da comunidade Minas Dev.
+E sem mais delongas, encarecidamente solicitamos respeito as propostas deste documento se assim for de seu interesse participar da comunidade Seu Job Tech.
 
 ### Reportando Problemas
 
